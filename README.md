@@ -1,3 +1,7 @@
+#*Work in progress*
+
+_*Note*_: This is a hard fork of https://github.com/knative/pkg.
+
 # Knative Common Packages
 
 ![sink](https://live.staticflickr.com/2524/3727870484_d57ce2b914.jpg)
